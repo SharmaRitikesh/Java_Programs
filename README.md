@@ -1,2 +1,2 @@
-# Java_Programs
-Welcome to the Java Practice Programs Repository!
+# Java Programs
+Java Practice Programs Repository!
